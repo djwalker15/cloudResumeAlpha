@@ -1,0 +1,1 @@
+Read Me for hugo folder
